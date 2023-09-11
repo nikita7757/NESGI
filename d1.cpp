@@ -10,4 +10,5 @@ int main(){
     cin>>b;
     cout<<"addition of "<<a<<" and "<<b<<" is "<<a+b;
     return 0;
+    
 }
